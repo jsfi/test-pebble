@@ -1,0 +1,30 @@
+{
+  "name": "test-pebble",
+  "description": "",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jsfi/test-pebble#readme",
+  "author": {
+    "name": "Martin Sachse",
+    "email": "martin.sachse@gmail.com",
+    "url": "http://jsfi.io"
+  },
+  "main": "dist/index.html",
+  "scripts": {
+    "test": "node node_modules/eslint/bin/eslint.js **/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jsfi/test-pebble.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jsfi/test-pebble/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "eslint": "^1.10.1"
+  }
+}

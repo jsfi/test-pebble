@@ -1,0 +1,16 @@
+{
+  "uuid": "896a96a9-3841-4f86-8215-85c25b4073aa",
+  "shortName": "jsfi.io",
+  "longName": "jsfi.io - Hello World",
+  "companyName": "jsfi",
+  "versionLabel": "0.1",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {},
+  "resources": {
+    "media": []
+  }
+}
